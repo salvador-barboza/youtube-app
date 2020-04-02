@@ -1,0 +1,19 @@
+#result-list {
+  list-style: none;
+}
+
+.result img {
+  margin: 8px;
+}
+.result a {
+  display: flex;
+  font-size: 0.6em;
+}
+
+.hidden {
+  display: none;
+}
+
+#next-button {
+  float: right;
+}
